@@ -62,7 +62,8 @@ The objective of this project is to transform raw mobile sales data into an inte
 
 ## Dashboard Preview
 
-(Add your dashboard screenshot here)
+<img width="1060" height="596" alt="image" src="https://github.com/user-attachments/assets/16eeb76d-bf76-449c-b7d5-88a28410d541" />
+
 
 ---
 
