@@ -72,8 +72,8 @@ The objective of this project is to transform raw mobile sales data into an inte
 ## Project Files
 
 Mobile-Sales-PowerBI-Dashboard
-- [Mobile_Sales_Dashboard.pbix](Mobile_Sales_Dashboard.pbix)
-- [Dashboard_Screenshot.png]
+- [Mobile Sales Dashboard(.pbix)](Mobile_Sales_Dashboard.pbix)
+- [Dashboard Screenshots](dashboard1.png)
 - [README.md](Readme.md)
 
 ---
